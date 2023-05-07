@@ -1,0 +1,30 @@
+#current-time {
+      font-size: 3em;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+#mainDiv{
+      padding-top : 20px;
+      height : 300px;
+      width : 700px;
+      border : 2px solid black;
+      border-radius : 10px;
+      text-align: center;
+      box-shadow : 2px 2px 2px 2px 2px;
+      margin : 5% auto;
+      background-color: rgb(250, 202, 210);
+}
+
+body{
+      background-color : #eeee;
+}
+
+#heading{
+      font-family: italic;
+      font-size: 2rem;
+}
+
+h2{
+      text-align: center;
+}
